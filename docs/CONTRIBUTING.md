@@ -111,7 +111,7 @@ When you're ready to test your changes, you have two options:
    name matching `test_pattern`. Example: `jest foo --detectOpenHandles`
 
 **Local Testing**
-Run `npm run serve` in the project directory. This will start the project in
+Run `npm start` in the project directory. This will start the project in
 mock production environment.
 
 ## Documentation

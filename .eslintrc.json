@@ -1,0 +1,28 @@
+{
+  "env": {
+    "browser": false,
+    "es6": true,
+    "node": true,
+    "jest": true,
+    "jquery": false
+  },
+  "extends": [
+    "plugin:jest/recommended",
+    "standard"
+  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "impliedStrict": true,
+      "jsx": true
+    },
+    "ecmaVersion": 6,
+    "requireConfigFile": true,
+    "sourceType": "module"
+  },
+  "root": true,
+  "rules": {
+    "camelcase": 0,
+    "space-before-function-paren": 0
+  }
+}
