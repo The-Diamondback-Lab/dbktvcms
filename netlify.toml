@@ -42,3 +42,10 @@
 [[redirects]]
   from = "/repo"
   to = "https://github.com/The-Diamondback-Lab/dbktvcms"
+
+# The following redirect is intended for use with most SPAs that handle
+# routing internally.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

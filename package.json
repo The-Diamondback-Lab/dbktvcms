@@ -5,9 +5,9 @@
   "author": "Lexus Drumgold <lex@flexdevelopment.llc>",
   "scripts": {
     "preinstall": "rm -rf node_modules",
-    "prestart:cms": "NODE_ENV=development cp .env.development .env",
-    "start:cms": "serve -s ./public",
-    "prestart:functions": "npm run prestart:cms",
+    "start:admin": "serve -s ./public/admin",
+    "start:public": "serve -s ./public",
+    "prestart:functions": "NODE_ENV=development cp .env.development .env",
     "start:functions": "netlify-lambda serve src/functions",
     "start": "run-p start:**",
     "lint": "eslint ./src/**/*.js --fix",
