@@ -28,5 +28,5 @@
       fields:
         - name: "slide"
           label: "Slide URL"
-          hint: "Make sure this begins with https://dbktv.netlify.com/api/"
+          hint: "Make sure this begins with https://dbktvcms.netlify.com/api/"
           widget: "string"
