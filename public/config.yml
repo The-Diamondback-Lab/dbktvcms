@@ -14,10 +14,10 @@ backend:
 publish_mode: editorial_workflow
 
 # Folder where uploaded files should be saved, relative to the base of the repo
-media_folder: "public/uploads/"
+media_folder: "uploads/"
 
 # Folder where uploaded files will be accessed, relative to the build site base
-public_folder: "public/uploads/"
+public_folder: "uploads/"
 
 # URL of published site
 site_url: https://dbktvcms.netlify.com
