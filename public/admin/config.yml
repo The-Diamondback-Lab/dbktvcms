@@ -65,7 +65,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - name: "slide"
             label: "Slide URL"
-            hint: "Make sure this begins with https://dbktv.netlify.com/api/"
+            hint: "Make sure this begins with https://dbktvcms.netlify.com/api/"
             widget: "string"
   - name: "default"
     label: "Default"
