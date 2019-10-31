@@ -5,21 +5,41 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description"
-    content="Content Management System for DiamondbackTV. Specially curated Diamondback content - feature stories, multimedia, article previews, and advertisements - streamed to various televisions on University of Maryland's campus." />
+    content="Specially curated Diamondback content - feature stories, multimedia, article previews, and advertisements - streamed to various televisions on University of Maryland's campus." />
 
   <link rel="shortcut icon"
     href="https://firebasestorage.googleapis.com/v0/b/diamondbackcloud.appspot.com/o/assets%2Ficons%2Ffavicon.ico?alt=media" />
-
-
-  <!-- Netlify Identity widget -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link rel="icon" type="image/png"
+    href="https://firebasestorage.googleapis.com/v0/b/diamondbackcloud.appspot.com/o/assets%2Ficons%2Ffavicon-16x16.png?alt=media"
+    sizes="16x16">
+  <link rel="icon" type="image/png"
+    href="https://firebasestorage.googleapis.com/v0/b/diamondbackcloud.appspot.com/o/assets%2Ficons%2Ffavicon-32x32.png?alt=media"
+    sizes="32x32">
+  <link rel="icon" type="image/png"
+    href="https://firebasestorage.googleapis.com/v0/b/diamondbackcloud.appspot.com/o/assets%2Ficons%2Fpwa-192x192.png?alt=media"
+    sizes="192x192">
+  <link rel="apple-touch-icon"
+    href="https://firebasestorage.googleapis.com/v0/b/diamondbackcloud.appspot.com/o/assets%2Ficons%2Fapple-touch-icon-180x180.png?alt=media"
+    sizes="180x180">
 
   <title>DiamondbackTV CMS</title>
 </head>
 
 <body>
-  <!-- Include the script that builds the page and powers Netlify CMS -->
-  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <!-- JavaScript disabled warning -->
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+
+  <script>
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
 </body>
 
 </html>
