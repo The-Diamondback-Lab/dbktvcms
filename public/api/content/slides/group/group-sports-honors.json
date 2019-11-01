@@ -1,0 +1,25 @@
+{
+  "last_edited_by": "Camryn DeLuca",
+  "duration": 15000,
+  "title": "sports honors",
+  "article1": {
+    "headline": {
+      "href": "https://dbknews.com/2019/10/31/kaila-charles-ap-preseason-all-american-honors-maryland-womens-basketball/",
+      "text": "Maryland basketball’s Kaila Charles earns AP Preseason All-American honors"
+    },
+    "sponsored": false,
+    "author": "Gus Martin",
+    "category": "Sports, Women's basketball",
+    "blurb": "Maryland women’s basketball forward Kaila Charles is a Preseason All-American, the Associated Press announced Thursday, adding yet another honor to her resume leading into the 2019-2020 season.\n\nThe senior is the first Maryland player named to the Preseason All-American team since Alyssa Thomas in 2013."
+  },
+  "article2": {
+    "headline": {
+      "href": "https://dbknews.com/2019/10/31/maryland-womens-soccer-alyssa-poarch-big-ten-second-team-michigan/",
+      "text": "Maryland women’s soccer forward Alyssa Poarch named to All-Big Ten second team"
+    },
+    "sponsored": false,
+    "author": "Jacob Richman",
+    "category": "Sports, Women's soccer",
+    "blurb": "Maryland women’s soccer forward Alyssa Poarch was named to the All-Big Ten second team, the conference announced Thursday.\n\nPoarch is the Terps’ top goal-scorer this season, with eight tallies to her name. The redshirt sophomore also tacked on three assists while starting every game for Maryland."
+  }
+}
