@@ -1,0 +1,25 @@
+{
+  "last_edited_by": "Camryn DeLuca",
+  "duration": 15000,
+  "title": "sga vote and research",
+  "article1": {
+    "headline": {
+      "href": "https://dbknews.com/2019/10/31/umd-sga-title-ix-change-report-odi-vote/",
+      "text": "UMD SGA votes to support new Title IX office reporting structure"
+    },
+    "sponsored": false,
+    "author": "Amanda Hernández",
+    "category": "Campus",
+    "blurb": "The University of Maryland’s SGA voted Wednesday to support the new reporting structure of the Office of Civil Rights and Sexual Misconduct.\n\nThe bill received a vote of 18-0 with two abstentions."
+  },
+  "article2": {
+    "headline": {
+      "href": "https://dbknews.com/2019/10/31/umd-researchers-brain-injury-cognitive-decline/",
+      "text": "UMD researchers are using a $2.8 million grant to study spinal cord injuries and dementia"
+    },
+    "sponsored": false,
+    "author": "Rina Torchinsky",
+    "category": "Campus",
+    "blurb": "A team of University of Maryland and University of Maryland, Baltimore researchers is investigating the connection between dementia and spinal cord injuries with the help of a $2.8 million dollar grant awarded earlier this month from the National Institutes of Health.\n\nThe project — a collaborative effort between the university’s bioengineering lab and the University of Maryland medical school, which is housed at the University of Maryland, Baltimore — aims to examine a link between spinal cord injuries and degeneration in the brain."
+  }
+}
