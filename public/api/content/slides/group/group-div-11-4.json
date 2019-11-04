@@ -1,0 +1,25 @@
+{
+  "last_edited_by": "manu",
+  "duration": 15000,
+  "title": "div 11/4",
+  "article1": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/04/art-exhibits-washington-dc-november/",
+      "text": "Seven art exhibits to see in the D.C. area this November"
+    },
+    "sponsored": false,
+    "author": "Audrey Decker",
+    "category": "Diversions",
+    "blurb": "Growing up with an art major for a mother, I was dragged to museum after museum. While my 10-year-old self wasn’t too happy, looking back, I’ve grown to appreciate every Washington, D.C., exhibit my mom took me to."
+  },
+  "article2": {
+    "headline": {
+      "href": "https://dbknews.com/2019/11/03/winter-wardrobe-fashion-essentials-tips/",
+      "text": "Essential items for your winter wardrobe"
+    },
+    "sponsored": false,
+    "author": "Oyinkansola Awosika",
+    "category": "Diversions",
+    "blurb": "While I despise winter, I think we can all agree that there is one highlight to the approaching season: style. Winter fashion opens the door for layers, textures and fabrics that simply do not work at any other time."
+  }
+}
