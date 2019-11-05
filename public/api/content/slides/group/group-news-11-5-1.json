@@ -1,25 +1,25 @@
 {
   "last_edited_by": "Alexander Dacy",
   "duration": 15000,
-  "title": "News 11/5",
+  "title": "Sports 11/5",
   "article1": {
     "headline": {
-      "href": "https://dbknews.com/2019/11/05/college-park-election-campaign-finance-funding-mayor-council/",
-      "text": "Here’s what College Park City Council and mayoral candidates raised for Tuesday’s election"
+      "href": "https://dbknews.com/2019/11/03/maryland-mens-soccer-game-score-recap-result-senior-day/",
+      "text": "No. 17 Maryland men’s soccer takes Big Ten tourney seeding hit with 4-2 loss to Michigan"
     },
     "sponsored": false,
-    "author": "Rina Torchinsky",
-    "category": "News",
-    "blurb": "College Park Mayor Patrick Wojahn received more than $14,000 in contributions for his 2019 campaign, out-earning his nearest competitor by over $13,000 ahead of Tuesday’s election.\n\nWojahn has also spent the most out of all candidates, using just over a third of his contributions thus far, mostly on flyers and yard signs."
+    "author": "Eric Myers",
+    "category": "Sports",
+    "blurb": "Trailing 3-2 with 30 seconds to play, coach Sasho Cirovski sold out for the equalizer, sending goalkeeper Niklas Neumann to the box for a corner. Once the Wolverines cleared the chance, forward Jack Hallahan sprinted across midfield and rolled a shot toward the vacant net.\n\nThe ball steadily inched toward the net and trickled across the line to seal Maryland’s fate as the No. 5 seed in the conference tournament, as Michigan erased a second-half deficit to claim the No. 3 seed for itself with a 4-2 victory over the Terps on Sunday evening at Ludwig Field."
   },
   "article2": {
     "headline": {
-      "href": "https://dbknews.com/2019/11/05/graduate-student-government-student-fee-athletic-umd/",
-      "text": "UMD GSG revives discussion on making athletic student fee opt-in for grad students"
+      "href": "https://dbknews.com/2019/11/03/maryland-womens-soccer-michigan-big-ten-tournament-game-score-recap-result/",
+      "text": "Maryland women’s soccer knocked out of Big Ten tournament with 3-0 loss to No. 20 Michigan"
     },
     "sponsored": false,
-    "author": "Angela Roberts",
-    "category": "News",
-    "blurb": "The University of Maryland’s Graduate Student Government discussed whether the athletics department should adopt an opt-in model for its graduate student fee on Monday, circling back to the topic almost exactly one year after first pushing for a change.\n\nIn November 2018, the GSG voted overwhelmingly in support of a resolution that called for the university’s athletics department to allow graduate students to forego paying the portion of the fee that goes toward funding student tickets — three-quarters of the then-$136 yearly charge."
+    "author": "Ben Cooper",
+    "category": "Sports",
+    "blurb": "A long ball in the 36th minute found its way past freshman Olivia Hicks, leaving midfielder Meredith Haakenson free on the right wing. The sophomore’s shot to the far post was saved by goalkeeper Erin Seppi, but the rebound leaked out to an unmarked Danielle Wolfe, who slotted home.\n\nThe No. 20 Wolverines would continue to find space on the wing, taking down Maryland, 3-0, in the Big Ten quarterfinals Sunday and cutting short the Terps’ first Big Ten tournament appearance in program history."
   }
 }
